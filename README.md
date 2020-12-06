@@ -16,3 +16,6 @@ some purpose text
 
 
 coppyright notice
+
+
+Make a change on master while change on other branch
