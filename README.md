@@ -2,7 +2,7 @@
 
 Simple intro on how to modify via GIT
 
-Adding a line for rebase example
+Adding a line for rebase example, then more changes from myfeatures branch
 
 ## Intro 
 
