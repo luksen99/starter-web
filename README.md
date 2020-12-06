@@ -2,6 +2,8 @@
 
 Simple intro on how to modify via GIT
 
+Adding a line for rebase example
+
 ## Intro 
 
 Intro text
