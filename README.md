@@ -17,7 +17,7 @@ Modify deplS
 some purpose text
 
 
-coppyright notice
+coppyright notice All rights reserved
 
 
 Make a change on master while change on other branch
